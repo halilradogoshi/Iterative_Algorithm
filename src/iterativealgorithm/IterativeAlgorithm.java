@@ -10,12 +10,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * This iterative algorithm will show the first m terms of the following number sequence;
+ * This iterative algorithm will show the first m terms of the following number sequence:
  * t(n)= t(n-1) + 6*t(n-2)+ 5*n 
  * 
  * It is created as a part of the university course Discrete Mathematics for Computing
  * 
- * @author Halil Radogoshi <halil.radogoshi0002@stud.hkr.se><www.halilradogoshi.com>
+ * @author Halil Radogoshi <halil.radogoshi0002@stud.hkr.se>
  * <www.halilradogoshi.com>
  * 
  */
