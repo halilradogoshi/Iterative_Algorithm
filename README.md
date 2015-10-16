@@ -9,4 +9,4 @@ The user will be prompted the enter the number of iterations and the result will
 
 
 
-The algorithm is created as a part of the university course Discrete Mathematics for Computing.
+The algorithm is created as a part of the university course Discrete Mathematics.
